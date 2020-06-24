@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_PULSERAS" value="name:id_pulcera;datatype:int,name:nom_pulcera;datatype:string,name:precio_unit;datatype:real,name:id_talla;datatype:string,name:imagen;datatype:blob,name:STOCK;datatype:string" />
+	<infoitem key="UD_perfil" value="name:id_cliente;datatype:int,name:NOMBRE;datatype:string,name:APELLIDO;datatype:string,name:DIRECION;datatype:string,name:TELEFONO;datatype:string,name:CORREO;datatype:string,name:CONTRASENA;datatype:string,name:perfil;datatype:blob" />
+	<infoitem key="UD_PULSERA2" value="name:id_pulcera;datatype:int,name:nom_pulcera;datatype:string,name:precio_unit;datatype:real,name:id_talla;datatype:string,name:imagen;datatype:blob,name:STOCK;datatype:string" />
+</info>

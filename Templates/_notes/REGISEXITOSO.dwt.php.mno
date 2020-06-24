@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_PULSERAS" value="name:id_pulcera;datatype:string,name:nom_pulcera;datatype:string,name:precio_unit;datatype:real,name:id_talla;datatype:string,name:imagen;datatype:blob,name:STOCK;datatype:string" />
+</info>

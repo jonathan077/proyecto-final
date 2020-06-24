@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_PERFIL" value="name:ID_administrador;datatype:int,name:Nombre;datatype:string,name:Apellido;datatype:string,name:Correo;datatype:string,name:Contrasena;datatype:string,name:imagen;datatype:string" />
+</info>

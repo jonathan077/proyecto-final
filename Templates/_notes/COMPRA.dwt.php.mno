@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_VENTA" value="name:id_venta;datatype:int,name:id_pulcera;datatype:string,name:id_talla;datatype:string,name:id_empleado;datatype:string,name:id_depto;datatype:string,name:id_cliente;datatype:int" />
+	<infoitem key="UD_VENTA1" value="name:id_pulcera;datatype:string,name:nom_pulcera;datatype:string,name:precio_unit;datatype:real,name:id_talla;datatype:string,name:imagen;datatype:blob,name:STOCK;datatype:string" />
+	<infoitem key="UD_TALLA" value="name:id_talla;datatype:string,name:nom_talla;datatype:string" />
+	<infoitem key="UD_pulsera" value="name:id_pulcera;datatype:int,name:nom_pulcera;datatype:string,name:precio_unit;datatype:real,name:id_talla;datatype:string,name:imagen;datatype:blob,name:STOCK;datatype:string" />
+	<infoitem key="UD_talla" value="name:id_talla;datatype:string,name:nom_talla;datatype:string" />
+	<infoitem key="UD_PULSERA" value="name:id_pulcera;datatype:int,name:nom_pulcera;datatype:string,name:precio_unit;datatype:real,name:id_talla;datatype:string,name:imagen;datatype:blob,name:STOCK;datatype:string" />
+</info>

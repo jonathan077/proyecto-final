@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_PERFIL" value="name:id_cliente;datatype:int,name:NOMBRE;datatype:string,name:APELLIDO;datatype:string,name:DIRECION;datatype:string,name:TELEFONO;datatype:string,name:CORREO;datatype:string,name:CONTRASENA;datatype:string,name:perfil;datatype:blob" />
+</info>
